@@ -16,3 +16,13 @@ https://github.com/Open-Shell/Open-Shell-Menu
 [![Voir la vidéo](https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg)](https://www.youtube.com/watch?v=JqaeH0I1Svo)
 
 https://www.youtube.com/watch?v=JqaeH0I1Svo
+
+
+
+<h2 align="center">🎥 Vidéo de démonstration</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JqaeH0I1Svo">
+    <img src="https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg" width="600">
+  </a>
+</p>
