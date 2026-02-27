@@ -9,7 +9,7 @@
 ### Documentation Materiel
 [Documentation](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
 
-![DMI](https://france-opg.tk/logo-img-theme/logo/france-opg.png)
+![DMI](https://fopg.fr/logo-img-theme/logo/france-opg.png)
 
 ### Dépendance :
 - git
