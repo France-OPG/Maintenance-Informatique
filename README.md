@@ -3,9 +3,9 @@
 
 ✅ DMAI-France-OPG ✅
 
-[Documentation/Astuce Logiciel](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
+[Documentation/Astuce Logiciel](https://github.com/France-OPG/Maintenance-Informatique/blob/main/Logiciel/doc)
 
-[Documentation/Astuce Materiel](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
+[Documentation/Astuce Materiel](https://github.com/France-OPG/Maintenance-Informatique/blob/main/Materiel/doc)
 
 ![DMI](https://fopg.fr/logo-img-theme/logo/France-OPG.png)
 
