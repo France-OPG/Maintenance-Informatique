@@ -2,7 +2,7 @@
 
 ## 📥 Téléchargement
 
-[⬇️ Télécharger IMG.zip](./IMG.zip)
+[⬇️ Télécharger IMG.zip](https://raw.githubusercontent.com/France-OPG/Maintenance-Informatique/main/Logiciel/Windows/Win7-texture-for-Win11/IMG.zip)
 
 ## Source :
 
