@@ -10,6 +10,9 @@ https://github.com/valinet/ExplorerPatcher
 
 https://github.com/Open-Shell/Open-Shell-Menu 
 # 
-## Vidéo en cours de création 
+
+## 🎥 Vidéo de démonstration
+
+[![Voir la vidéo](https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg)](https://www.youtube.com/watch?v=JqaeH0I1Svo)
 
 https://www.youtube.com/watch?v=JqaeH0I1Svo
