@@ -6,10 +6,10 @@
 ### Documentation Logiciel
 [Documentation](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
 
-### Documentation Materiel
-[Documentation](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
+### Documentation Materiel (https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
+[Documentation]
 
-![DMI](https://fopg.fr/logo-img-theme/logo/france-opg.png)
+![DMI](https://fopg.fr/logo-img-theme/logo/France-OPG.png)
 
 ### Dépendance :
 - git
