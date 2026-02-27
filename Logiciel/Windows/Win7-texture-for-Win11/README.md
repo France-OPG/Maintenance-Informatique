@@ -1,28 +1,51 @@
-# Win7-texture-for-Win11
+<h1 align="center">🖥️ Win7 Texture for Windows 11</h1>
 
-## 📥 Téléchargement
+<p align="center">
+  Transformez l’apparence de Windows 11 pour retrouver le style Windows 7.
+</p>
 
-[⬇️ Télécharger IMG.zip](https://raw.githubusercontent.com/France-OPG/Maintenance-Informatique/main/Logiciel/Windows/Win7-texture-for-Win11/IMG.zip)
+<hr>
 
-## Source :
+<h2 align="center">📥 Téléchargement</h2>
 
-https://github.com/valinet/ExplorerPatcher 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/France-OPG/Maintenance-Informatique/main/Logiciel/Windows/Win7-texture-for-Win11/IMG.zip">
+    <img src="https://img.shields.io/badge/Télécharger-IMG.zip-blue?style=for-the-badge&logo=windows" alt="Télécharger IMG.zip">
+  </a>
+</p>
 
-https://github.com/Open-Shell/Open-Shell-Menu 
-# 
+<hr>
 
-## 🎥 Vidéo de démonstration
+<h2 align="center">🔧 Logiciels utilisés</h2>
 
-[![Voir la vidéo](https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg)](https://www.youtube.com/watch?v=JqaeH0I1Svo)
+<p align="center">
+  <a href="https://github.com/valinet/ExplorerPatcher">
+    ExplorerPatcher
+  </a>
+  <br><br>
+  <a href="https://github.com/Open-Shell/Open-Shell-Menu">
+    Open-Shell
+  </a>
+</p>
 
-https://www.youtube.com/watch?v=JqaeH0I1Svo
-
-
+<hr>
 
 <h2 align="center">🎥 Vidéo de démonstration</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JqaeH0I1Svo">
-    <img src="https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg" width="600">
+    <img src="https://img.youtube.com/vi/JqaeH0I1Svo/maxresdefault.jpg" width="700" alt="Vidéo de démonstration">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JqaeH0I1Svo">
+    ▶️ Voir la vidéo sur YouTube
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  Projet maintenu par France-OPG
 </p>
