@@ -1,7 +1,7 @@
-# Maintenance-Informatique
+# Maintenance-&-Astuce-Informatique
 ## Documentation De Maintenance Informatique De France-OPG [DMI-FOPG]
 
-✅ DMI-France-OPG ✅
+✅ MAI-France-OPG ✅
 
 ### Documentation Logiciel
 [Documentation](https://github.com/France-OPG/ResPinGuy/blob/main/documentation.md)
